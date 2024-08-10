@@ -20,10 +20,10 @@ Hi there, I'm **Agum Al Zikhri**, a **Kaggle Competitions Expert** ( Ranked Top 
 - 🤔 My interests are with Web Developing, Mobile Programming, Artificial Inteligence, etc...; 
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.Agum25@gmail.com to reach me.
+- 📫 Please email via alzikhriagum@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](google drive) to get more info.
 
-
+<--
 **Languages and Tools:**  
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
@@ -38,7 +38,8 @@ Hi there, I'm **Agum Al Zikhri**, a **Kaggle Competitions Expert** ( Ranked Top 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+-->
 
-![Agum's github stats](https://github-readme-stats.vercel.app/api?username=callmeAgum&show_icons=true&hide_border=true)
+![Agum's github stats](https://github-readme-stats.vercel.app/api?username=agumalz&show_icons=true&hide_border=true)
 
 ⭐️ From [Agum](https://github.com/agumalz)
