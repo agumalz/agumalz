@@ -23,7 +23,7 @@ Hi there, I'm **Agum Al Zikhri**, a **Kaggle Competitions Expert** ( Ranked Top 
 - 📫 Please email via alzikhriagum@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](google drive) to get more info.
 
-<--
+<!--
 **Languages and Tools:**  
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
