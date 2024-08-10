@@ -1,34 +1,27 @@
 ### Hey 👋, I'm Agum
 
-<a href="https://www.linkedin.com/in/Agummabrouki/">
+<a href="https://www.linkedin.com/in/AgumAlZikhri/">
   <img align="left" alt="Agum's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.kaggle.com/Agummabrouki">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<a href="https://www.instagram.com/mabroukiAgum/">
+<a href="https://www.instagram.com/agumm.az/">
   <img align="left" alt="Agum's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/Agum.mabrouki1">
-  <img align="left" alt="Agum's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 <br />
 <br />
 
-Hi there, I'm **Agum Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Tunisia.  Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeAgum](https://github.com/CallmeAgum), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/Agummabrouki), and an Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **Agum Al Zikhri**, a **Kaggle Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Indonesia.  Iam an BackEnd Enthusiast 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 🌱 I’m currently learning Django Backend; 
+- 🤔 My interests are with Web Developing, Mobile Programming, Artificial Inteligence, etc...; 
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via mabrouki.Agum25@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](google drive) to get more info.
 
 
 **Languages and Tools:**  
@@ -48,4 +41,4 @@ Hi there, I'm **Agum Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 1
 
 ![Agum's github stats](https://github-readme-stats.vercel.app/api?username=callmeAgum&show_icons=true&hide_border=true)
 
-⭐️ From [CallmeAgum](https://github.com/CallmeAgum)
+⭐️ From [Agum](https://github.com/agumalz)
