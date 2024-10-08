@@ -40,6 +40,5 @@ Hi there, I'm **Agum Al Zikhri**, a **Kaggle Competitions Expert** ( Ranked Top 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 -->
 
-![Agum's github stats](https://github-readme-stats.vercel.app/api?username=agumalz&show_icons=true&hide_border=true)
 
 ⭐️ From [Agum](https://github.com/agumalz)
